@@ -1,0 +1,26 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(173, 173, 193);
+  }
+  .jumbotron {
+    background-image: url('https://cdn.pixabay.com/photo/2017/09/19/08/54/eyes-2764597_1280.jpg');
+    background-size: cover;
+    color: white;
+  }
+  .skill-icon {
+    font-size: 3rem;
+  }
+  .project-card {
+    margin-bottom: 2rem;
+  }
+  #buttonprojectm{
+    margin:10px;
+    margin-bottom: 20px;
+  }
+  blockquote{
+    padding-left: 50px;
+  }
+  .contentcolor{
+    background-color:aquamarine;
+  }
